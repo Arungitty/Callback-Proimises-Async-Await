@@ -1,0 +1,12 @@
+body{
+    background-color:aquamarine;
+}
+
+ #student-list{
+    display: none;
+}
+ 
+ #student-list.visible{
+    display: block;
+}
+ 
